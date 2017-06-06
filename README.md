@@ -1,5 +1,5 @@
 # Udacity Logs Analysis Project
-This is an internal reporting tool that produces answers by printing them out in the plain text in the Terminal to the following three questions based on the data in the database:
+This is an internal reporting tool that produces answers by printing them out in the plain text in the Terminal. The tool produces answers to the following three questions based on the data in the database:
 
 1) What are the most popular three articles of all time? 
 2) Who are the most popular articles authors of all time? 
