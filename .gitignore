@@ -1,0 +1,4 @@
+# files already included in the project data package
+
+newsdata.sql 
+select newsdata.sql from authors
